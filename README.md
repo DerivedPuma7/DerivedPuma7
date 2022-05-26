@@ -1,7 +1,9 @@
 ### Olá, eu sou o Gustavo 👋
 
 Tenho 21 anos, sou aluno de Sistemas de Informação pela Universidade Federal de Lavras (UFLA), e estou sempre tentando escrever um Código Limpo :books:
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/72414425/170411850-f4174c46-b7cc-4c4e-9b63-1a86c098d7b3.png" width="500px" />
+</div>
 
 - :hammer: Atualmente estou trabalhando na Delta Global S.A. como desenvolvedor fullstack, com Jquery, React, PHP e MySQL
 - 🌱 Tenho estudado muito a stack Node.js, com Typescript, TDD, Clean Architecture, Docker, entre outros
