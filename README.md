@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gustavo 👋
 
-Tenho 21 anos, sou aluno de Sistemas de Informação pela Universidade Federal de Lavras (UFLA), e estou sempre tentando escrever um Código Limpo :books:
+Tenho 22 anos, sou aluno de Sistemas de Informação pela Universidade Federal de Lavras (UFLA), e estou sempre tentando escrever um Código Limpo :books:
 <div align="center">
   <img src="https://user-images.githubusercontent.com/72414425/170411850-f4174c46-b7cc-4c4e-9b63-1a86c098d7b3.png" width="350px" height:"317" />
 </div>
