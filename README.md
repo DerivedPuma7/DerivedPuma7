@@ -5,9 +5,9 @@ Tenho 23 anos, sou aluno de Sistemas de Informação pela Universidade Federal d
   <img src="https://user-images.githubusercontent.com/72414425/170411850-f4174c46-b7cc-4c4e-9b63-1a86c098d7b3.png" width="350px" height:"317" />
 </div>
 
-- :hammer: Atualmente estou trabalhando no aiqfome (o melhor app de food delivery do país),  como desenvolvedor backend, atuando com VueJs, PHP, e MySQL
-- 🌱 Tenho estudado muito a stack Node.js, com Typescript, TDD, Clean Architecture, Docker, AWS entre outros
-- 🔭 Para o futuro, pretendo direcionar minha carreira apenas para backend, e além de Node, tenho vontade de aprender Golang
+- :hammer: Atualmente estou trabalhando como desenvolvedor backend pleno na Usemobile, atuando com NodeJs, Typescript, NestJs, Docker, AWS, Microsserviços, SQS e PostgreSql
+- 🌱 Tenho estudado muito Golang, arquiteturas distribuídas orientada a eventos, Apache Kafka, AWS, entre outros
+- 🔭 Para o futuro, pretendo continuar minha carreira como backend e aprimorar meus conhecimentos em Cloud e DevOps. Meu sonho é atuar com Golang.
 
   ##
 
@@ -31,7 +31,7 @@ Tenho 23 anos, sou aluno de Sistemas de Informação pela Universidade Federal d
   <a href="https://www.youtube.com/channel/UCJNcDTancBAis72ueywCegw" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
-  <a href = "mailto:gustavoribeiro665@hotmail.com">
+  <a href = "mailto:dev.gustavofigueiredo@gmail.com">
     <img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/gustavo-ribeiro-de-figueiredo-56a6ba122/" target="_blank">
