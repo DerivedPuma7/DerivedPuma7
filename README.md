@@ -34,7 +34,7 @@ Tenho 23 anos, sou aluno de Sistemas de Informação pela Universidade Federal d
   <a href = "mailto:dev.gustavofigueiredo@gmail.com">
     <img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/gustavo-ribeiro-de-figueiredo-56a6ba122/" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-figueiredo-dev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 
